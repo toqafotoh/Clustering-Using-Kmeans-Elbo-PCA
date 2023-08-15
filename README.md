@@ -15,12 +15,7 @@ The dataset contains valuable insights into customer spending behavior, includin
 6. **K-means Clustering:** Apply the K-means algorithm to cluster similar customers into segments.
 7. **Visualization:** Visualize the clustered results using scatter plots and other visualization techniques to extract meaningful insights.
 
-## How to Use
-1. Clone the repository to your local machine using `git clone`.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the Jupyter Notebook or Python script to execute the analysis.
-4. Explore the generated visualizations to understand the customer segments better.
+## K-Means Grouping
 
-## Some Views 
+![K-Means Grouping]([https://github.com/your_username/your_repository/raw/main/images/clustering_results.png](https://github.com/toqafotoh/Clustering-Using-Kmeans-Elbo-PCA/blob/main/image.png)https://github.com/toqafotoh/Clustering-Using-Kmeans-Elbo-PCA/blob/main/image.png)
 
-*Note: Replace `<link>` and `<your_project_name>` with actual links and your project name.*
