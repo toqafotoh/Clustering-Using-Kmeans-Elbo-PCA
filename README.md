@@ -17,5 +17,5 @@ The dataset contains valuable insights into customer spending behavior, includin
 
 ## K-Means Grouping
 
-![K-Means Grouping]([https://github.com/your_username/your_repository/raw/main/images/clustering_results.png](https://github.com/toqafotoh/Clustering-Using-Kmeans-Elbo-PCA/blob/main/image.png)https://github.com/toqafotoh/Clustering-Using-Kmeans-Elbo-PCA/blob/main/image.png)
+![K-Means Grouping](https://raw.githubusercontent.com/toqafotoh/Clustering-Using-Kmeans-Elbo-PCA/main/image.png)
 
