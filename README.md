@@ -21,23 +21,6 @@ The dataset contains valuable insights into customer spending behavior, includin
 3. Run the Jupyter Notebook or Python script to execute the analysis.
 4. Explore the generated visualizations to understand the customer segments better.
 
-## Dependencies
-- Python (>=3.6)
-- Jupyter Notebook
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
-
-## Acknowledgments
-This project was inspired by the need to understand and categorize customer behaviors for effective marketing strategies.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute, report issues, or suggest improvements!
-
----
+## Some Views 
 
 *Note: Replace `<link>` and `<your_project_name>` with actual links and your project name.*
